@@ -48,7 +48,7 @@ User Query
 │ Agent           │
 └──────┬──────────┘
        │
- ┌─────┼─────┐
+ ┌─────┼─────┐──────────┐
  ▼           ▼           ▼
 
 Rules      Errata     Game State
